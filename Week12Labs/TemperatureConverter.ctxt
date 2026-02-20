@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TemperatureConverter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TemperatureConverter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TemperatureConverter()
+comment2.params=temp
+comment2.target=double\ convertToFahrenheit(double)
+comment3.params=temp
+comment3.target=double\ convertToCelsius(double)
+comment4.params=
+comment4.target=void\ displayMenu()
+comment5.params=original\ converted
+comment5.target=void\ printResult(double,\ double)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
